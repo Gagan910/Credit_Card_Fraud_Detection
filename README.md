@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This repository contains the implementation of a Credit Card Fraud Detection system using various machine learning models. The main goal of this project is to identify fraudulent credit card transactions from a given dataset.
+This Project contains the implementation of a Credit Card Fraud Detection system using various machine learning models. The main goal of this project is to identify fraudulent credit card transactions from a given dataset.
 
 ## Table of Contents
 - [Introduction](#introduction)
